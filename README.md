@@ -31,8 +31,15 @@ Let me explain how does my project create, first for the main page which one is 
 
 
 
-                                                          administrator.jsp.  
+                                                          administrator.jsp 
 
 ![image](https://user-images.githubusercontent.com/62865086/121635887-d8782100-caa8-11eb-9e51-07bff30a5ec4.png)
 
+                                                            add.jsp page.
+![image](https://user-images.githubusercontent.com/62865086/121636207-5dfbd100-caa9-11eb-9175-3fc52b61e332.png)
+                                                        
+                                                              Update.jsp    
+![image](https://user-images.githubusercontent.com/62865086/121636276-7b309f80-caa9-11eb-947e-bcd4246d9612.png)
+                                                             
+                                                        
 
